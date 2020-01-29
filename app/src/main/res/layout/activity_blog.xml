@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Activities.BLogActivity"
+    android:orientation="vertical">
+
+    <SearchView
+        android:id="@+id/blog_search"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        app:queryHint="Search Place"
+        android:background="@android:color/holo_blue_dark"
+        android:layout_margin="10dp"/>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/black"
+        android:layout_margin="2dp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/blog_reculler"/>
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+
+    <color name="background_color">#078EF8</color>
+    <color name="meterial_deep_purple">#1F38C4</color>
+    <color name="meterial_pink">#9C27B0</color>
+    <color name="meterial_green">#F44336</color>
+    <color name="meterial_blue">#157CAA</color>
+
+
+</resources>

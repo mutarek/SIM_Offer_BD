@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GhuriFiri</string>
+
+    <string name="option1">Hotel</string>
+    <string name="option2">Transport Service</string>
+    <string name="option3">Local Guide</string>
+    <string name="option4">Tourist Attraction</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
